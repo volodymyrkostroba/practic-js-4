@@ -20,3 +20,14 @@ section{
     flex-direction: row;
 }
 
+.red{
+    color: red;
+}
+
+.uppercased{
+    text-transform: uppercase;
+}
+
+.line-through{
+    text-decoration: line-through;
+}
